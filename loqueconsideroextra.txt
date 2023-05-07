@@ -1,0 +1,6 @@
+Extras:
+
+- Esconder título de la app para que ésta se despliegue en toda la pantalla.
+- Clase Student para almacenar los datos que se enviarán del formulario a la Activity de despliegue.
+- Eliminación de advertencia de "deprecated" en "getParcelable" al definir condición de Build.Version.SDK_INT.
+
