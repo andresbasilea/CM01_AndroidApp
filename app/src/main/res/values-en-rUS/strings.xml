@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasileEjercicio1CompuMovil</string>
+    <string name="Version">Version 1.0</string>
+
+    <string name="Formulario">Form</string>
+    <string name="Nombre">Name</string>
+    <string name="Apellidos">Surnames</string>
+    <string name="FechaNacimiento">Birth Date</string>
+    <string name="Correo">Email</string>
+    <string name="NumCuenta">Student\'s Account Number</string>
+
+    <string name="Carrera">Bachelor</string>
+
+    <string name="CarreraValidar">"Select a bachelor"</string>
+    <string name="NombreValidar">Enter a valid name</string>
+    <string name="ApellidosValidar">Enter a valid surname</string>
+    <string name="FechaNacimientoValidar">Enter your birth date</string>
+    <string name="CorreoValidar">Enter a valid email</string>
+    <string name="NumCuentaValidar">Enter a valid student card number</string>
+    <string name="IngresoCorrecto">Data entered correctly</string>
+    <string name="IngresoIncorrecto">"Error entering data "</string>
+
+    <string name="Continuar">Continue</string>
+    <string name="ValorR">Required Value</string>
+
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="previous">previous</string>
+    <string name="first_fragment_label">ffl</string>
+    <string name="second_fragment_label">sfl</string>
+
+    <plurals name="edadPlural">
+        <item quantity="one">% year old</item>
+        <item quantity="other">% years old</item>
+    </plurals>
+
+    <string name="Regresar">Back</string>
+    <string name="NombreCompleto">Full Name</string>
+    <string name="Edad">Age</string>
+    <string name="SignoZodiacal2">Zodiac Sign</string>
+    <string name="SignoChino2">Chinese Zodiac Sign</string>
+
+    <string-array name="SignoZodiacal">
+        <item>Aquarius</item>
+        <item>Pisces</item>
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+    </string-array>
+
+    <string-array name="ListaCarreras">
+        <item>Select your career</item>
+        <item>Aerospace Engineering</item>
+        <item>Environmental Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electronic Electrical Engineering</item>
+        <item>Geophysical Engineering</item>
+        <item>Geological Engineering</item>
+        <item>Geomatics Engineering</item>
+        <item>Industrial Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Mechatronics Engineering</item>
+        <item>Mining and Metallurgical Engineering</item>
+        <item>Petroleum Engineering</item>
+        <item>Biomedical Systems Engineering</item>
+        <item>Telecommunications Engineering</item>
+    </string-array>
+
+    <string-array name="SignoChino">
+        <item>Rat</item>
+        <item>Ox</item>
+        <item>Tiger</item>
+        <item>Rabbit</item>
+        <item>Dragon</item>
+        <item>Snake</item>
+        <item>Horse</item>
+        <item>Goat</item>
+        <item>Monkey</item>
+        <item>Rooster</item>
+        <item>Dog</item>
+        <item>Pig</item>
+    </string-array>
+
+
+
+</resources>

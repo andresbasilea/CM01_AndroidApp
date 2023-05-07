@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">BasileEjercicio1CompuMovil</string>
+    <string name="title_activity_splash_screen" translatable="false">SplashScreen</string>
+    <string name="next">Next</string>
+
+
+    <string name="Autor" translatable="false">Andrés José Basile Álvarez</string>
+
+    <string name="Version">Versión 1.0</string>
+
+
+    <string name="Formulario">Formulario</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="Correo">Correo Electrónico</string>
+    <string name="NumCuenta">Número de Cuenta</string>
+    <string name="Carrera">Carrera</string>
+    <string name="first_fragment_label">ffl</string>
+    <string name="second_fragment_label">ffl</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="previous">previous</string>
+
+    <string name="NombreValidar">"Ingrese un nombre válido"</string>
+    <string name="ApellidosValidar">"Ingrese apellidos válidos"</string>
+    <string name="FechaNacimientoValidar">"Ingrese una fecha de nacimiento válida"</string>
+    <string name="CorreoValidar">"Ingrese un correo electrónico válido"</string>
+    <string name="NumCuentaValidar">"Ingrese un número de cuenta válido"</string>
+    <string name="CarreraValidar">"Selecciona una carrera"</string>
+
+    <string name="IngresoCorrecto">"Datos ingresados correctamente"</string>
+    <string name="IngresoIncorrecto">"Error al ingresar los datos"</string>
+
+    <string name="Continuar">Continuar</string>
+    <string name="ValorR">Valor Requerido</string>
+
+
+    <string name="Regresar">Regresar</string>
+    <string name="NombreCompleto">Nombre Completo</string>
+    <string name="Edad">Edad</string>
+    <string name="SignoZodiacal2">Signo Zodiacal</string>
+    <string name="SignoChino2">Signo Horóscopo Chino</string>
+
+    <plurals name="edadPlural">
+        <item quantity="one">% año</item>
+        <item quantity="other">% años</item>
+    </plurals>
+
+    <string-array name="SignoZodiacal">
+        <item>Acuario</item>
+        <item>Piscis</item>
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Géminis</item>
+        <item>Cáncer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpio</item>
+        <item>Sagitario</item>
+        <item>Capricornio</item>
+    </string-array>
+
+    <string-array name="ListaCarreras">
+        <item>Seleccione su carrera</item>
+        <item>Ingeniería Aeroespacial</item>
+        <item>Ingeniería Ambiental</item>
+        <item>Ingeniería Civil</item>
+        <item>Ingeniería en Computación</item>
+        <item>Ingeniería Eléctrica Electrónica</item>
+        <item>Ingeniería Geofísica</item>
+        <item>Ingeniería Geológica</item>
+        <item>Ingeniería Geomática</item>
+        <item>Ingeniería Industrial</item>
+        <item>Ingeniería Mecánica</item>
+        <item>Ingeniería Mecatrónica</item>
+        <item>Ingeniería de Minas y Metalúrgia</item>
+        <item>Ingeniería Petrolera</item>
+        <item>Ingeniería en Sistemas Biomédicos</item>
+        <item>Ingeniería en Telecomunicaciones</item>
+    </string-array>
+
+    <string-array name="SignoChino">
+        <item>Rata</item>
+        <item>Buey</item>
+        <item>Tigre</item>
+        <item>Conejo</item>
+        <item>Dragón</item>
+        <item>Serpiente</item>
+        <item>Caballo</item>
+        <item>Cabra</item>
+        <item>Mono</item>
+        <item>Gallo</item>
+        <item>Perro</item>
+        <item>Cerdo</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasileEjercicio1CompuMovil.iml" filepath="$PROJECT_DIR$/.idea/modules/BasileEjercicio1CompuMovil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BasileEjercicio1CompuMovil.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

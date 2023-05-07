@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textViewSize">20sp</dimen>
+    <dimen name="textViewSizeSmall">14sp</dimen>
+    <dimen name="btnSize">15sp</dimen>
+</resources>
